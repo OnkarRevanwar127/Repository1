@@ -28,4 +28,5 @@ It takes two numbers as input and displays the result of each operation.
 ## 🚀 How to Run the Program
 1. Clone this repository:
    ```bash
-  https://github.com/OnkarRevanwar127/Repository1.git
+   https://github.com/OnkarRevanwar127/Repository1.git```
+  
